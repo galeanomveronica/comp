@@ -1,0 +1,5 @@
+program programaprueba{
+	var x;
+	x=5-3;
+	println x;
+}
